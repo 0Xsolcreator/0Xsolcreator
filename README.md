@@ -1,26 +1,33 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=0xCreator&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-<p align="center">
-  <img src="./images/creator.jpg" width="32%" alt="vector" style="border-radius: 50%;">
-</p>
-
-<p align="center">
-  Hi, I'm Creator. I'm a blockchain dev and systems designer at heart, and a big fan of Python. These days, I'm mostly coding in TypeScript.
-</p>
+<div align="center">
+  <span style="display: inline-block; vertical-align: middle; margin-right: 20px;">
+    <img src="./images/creator.jpg" width="150px" alt="vector" style="border-radius: 50%;">
+  </span>
+  <span style="display: inline-block; vertical-align: middle; text-align: left; max-width: 300px;">
+    Hi, I'm Creator. I'm a blockchain dev and systems designer at heart, and a big fan of Python. These days, I'm mostly coding in TypeScript.
+  </span>
+</div
 
 ![Snake animation](https://raw.githubusercontent.com/0Xsolcreator/0Xsolcreator/output/github-contribution-grid-snake-dark.svg)
 
 ## 📈 Profile Stats
 
-<div align="center">
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/0Xsolcreator?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Xsolcreator&layout=compact&theme=tokyonight&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=0Xsolcreator&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0Xsolcreator&layout=compact&theme=tokyonight&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5)](https://github.com/0Xsolcreator?tab=repositories)
-
-![Creator's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Xsolcreator&count_private=true&show_icons=true&theme=tokyonight)
-
-</div>
 
 ## 👨🏻‍💻 Specialized in
 
