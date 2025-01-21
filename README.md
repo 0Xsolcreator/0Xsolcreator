@@ -2,14 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-<div align="center">
-  <span style="display: inline-block; vertical-align: middle; margin-right: 20px;">
-    <img src="./images/creator.jpg" width="150px" alt="vector" style="border-radius: 50%;">
-  </span>
-  <span style="display: inline-block; vertical-align: middle; text-align: left; max-width: 300px;">
-    Hi, I'm Creator. I'm a blockchain dev and systems designer at heart, and a big fan of Python. These days, I'm mostly coding in TypeScript.
-  </span>
-</div
+<p align="center">
+  <img src="./images/creator.jpg" width="32%" alt="vector" style="border-radius: 50%;">
+</p>
+
+<p align="center">
+  Hi, I'm Creator. I'm a blockchain dev and systems designer at heart, and a big fan of Python. These days, I'm mostly coding in TypeScript.
+</p>
 
 ![Snake animation](https://raw.githubusercontent.com/0Xsolcreator/0Xsolcreator/output/github-contribution-grid-snake-dark.svg)
 
